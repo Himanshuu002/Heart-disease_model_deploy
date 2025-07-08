@@ -1,4 +1,4 @@
-# Lung Cancer Prediction App
+# Heart Disease Prediction App
 
 This is a Streamlit web app that uses a trained XGBoost model to predict the risk of lung cancer based on user input.
 
